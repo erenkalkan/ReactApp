@@ -1,0 +1,22 @@
+.logoturkcell
+{
+    width: 80px;
+    height: 70px;
+}
+
+.linkler{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.linkler li{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.LogoPng{
+    width: 75px;
+    height: 50px;
+    margin-left: 25px;
+}
